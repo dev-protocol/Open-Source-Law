@@ -1,9 +1,12 @@
 // simple agreement contemplating DAO treasury grants (by DAO legal wrapper) for independent contractor services, adaptable for individuals or entities
+
+// effective date should correspond to commencement of applicable DAO grant cycle
+
 // provided without warranty of any kind, do not use without consulting an attorney, all open-source-law repo disclosures apply
 
 ## Grant Agreement
 
-This Grant Agreement (this “Agreement”) is entered into as of [DATE] (the “Effective Date”) by and between __________________ (“Party A”) and [DAO LEGAL WRAPPER], a [ENTITY TYPE] (the “[ENTITY]”), represented and governed by the [______] Decentralized Autonomous Organization associated with address 0x_____ (“[______] DAO”) ([______] DAO and the [ENTITY], together with any and all subsidiaries and affiliates, “[DAO NAME]”) (Party A and [DAO NAME] are each a “Party” and both, the “Parties”).
+This Grant Agreement (this “Agreement”) is entered into as of [DATE] (the “Effective Date”) by and between __________________ (“Party A”) and [DAO LEGAL WRAPPER], a [ENTITY TYPE] (the “[ENTITY]”), represented and governed by the [NAME] Decentralized Autonomous Organization associated with address 0x_____ (“[NAME] DAO”) ([______] DAO and the [ENTITY], together with any and all subsidiaries and affiliates, “[DAO NAME]”) (Party A and [DAO NAME] are each a “Party” and both, the “Parties”).
 
 [DAO NAME] has deemed that Party A has the necessary qualifications, experience, and abilities to provide Services (as such term is defined in Section 1 below) to and for the benefit of [DAO NAME], and Party A has agreed to provide such Services to and for the benefit of [DAO NAME] pursuant to the terms and conditions set forth in this Agreement, with Party A to be deemed an independent contractor for [DAO NAME] (as more particularly set forth in Section 4 below, the “Relationship”). 
 
@@ -13,7 +16,7 @@ In consideration of the mutual benefits and obligations set forth in this Agreem
 
 2.	**Term**. 
 
-a.	The term of this Agreement commences on the Effective Date and remains in full force and effect (except for the terms of this Agreement which expressly survive the expiry or termination of this Agreement) until [DATE] /// [completion (as confirmed in writing by [DAO NAME]) of ____________] or until terminated pursuant to the terms of this Agreement. 
+a.	The term of this Agreement (the "Term") commences on the Effective Date and remains in full force and effect (except for the terms of this Agreement which expressly survive the expiry or termination of this Agreement) until [DATE] /// [milestone completion (as confirmed in writing by [DAO NAME]) of ____________] or until terminated pursuant to the terms of this Agreement. 
 
 b.	This Agreement may be terminated in writing upon [thirty (30) calendar days’] prior written notice by either Party, or by mutual written agreement of the Parties. However, notwithstanding the foregoing sentence, if Party A has been provided written notice from [DAO NAME] as to any material issue with the quality or provision of the Services which remains uncured for ten days in [DAO NAME]’s sole reasonable discretion, this Agreement may be terminated immediately by written notice from [DAO NAME]. 
 
@@ -21,11 +24,13 @@ c.	For avoidance of doubt, this Agreement may be terminated in accordance with t
 
 3.	**Compensation**. 
 
-a.	For each calendar month in the Term, [DAO NAME] or its written designee will pay Party A an equivalent amount to USD$[______] by [STABLECOIN] or other mutually agreed payment method and calculation on [the [__]th day of each applicable month] or as otherwise mutually agreed in writing. 
+a.	For each calendar month in the Term, [DAO NAME] or its written designee will pay Party A an equivalent amount to USD$[______] by [STABLECOIN] or other mutually agreed payment method and calculation within the first calendar week of each applicable month or as otherwise mutually agreed in writing. 
 
 b.	[DAO NAME] will reimburse Party A for all reasonable and necessary expenses incurred by Party A directly attributable to the Services, subject to [DAO NAME]’s express prior written approval of such expenses. 
 
 4.	**Independent Contractor Relationship**. In providing the Services under this Agreement, the Parties expressly agree that Party A is acting as an independent contractor and not as an employee or agent of [ENTITY], [DAO NAME] or any other related entity. Party A and [DAO NAME] acknowledge and agree that this Agreement does not create a partnership of any kind, nor any joint venture or similar relationship, and is exclusively a contract for service. Party A is not required to pay or make any contributions of any monetary value towards any governmental entity for tax purposes, unemployment compensation, worker’s compensation, insurance premium, pension or any other employee benefit with respect to [DAO NAME] during the Term. Party A acknowledges and agrees that Party A is solely responsible for complying with all laws, regulations, and other governmental requirements applicable to Party A including but not limited to paying all taxes, expenses, and other amounts due from Party A of any kind related to this Agreement.
+
+// applicable for where grantee will be privy to confidential information, such as information subject to a third party's NDA, or perhaps where a grantee wishes to preserve their own anonymity, etc.
 
 5.	**Confidential Information**. 
 
@@ -47,9 +52,17 @@ d.	With respect to Confidential Information:
   
   v.	The obligation not to disclose Confidential Information shall survive the termination of this Agreement, and at no time will Receiving Party or any of its Representatives be permitted to disclose Confidential Information, except to the extent that such Confidential Information is excluded from the obligations of confidentiality under this Agreement pursuant to Section 5(c) above.
 
-6.	**[Open Source /// Ownership of Intellectual Property]**. [The Parties acknowledge and agree that all work product and materials from the Services, unless expressly agreed in writing to the contrary, are and will be made and distributed under the MIT Creative Commons license. /// All intellectual property, work product, and related material including any trade secrets, moral rights, goodwill, relevant registrations or applications for registration, and rights in any patent, copyright, trademark, trade dress, industrial design, non-open source software, method, trade name and communications (the “Intellectual Property”) that is developed, progressed, or produced under this Agreement is a “work made for hire” and will be the sole property of [DAO NAME]. Party A may not use the Intellectual Property for any purpose other than as agreed herein except with the prior written consent of [DAO NAME]. The use of the Intellectual Property by [DAO NAME] will not be restricted in any manner. Party A will be responsible for any and all damages resulting from Party A’s or its Representatives’ or a third party’s (to the extent such third party received or became aware of Intellectual Property from Party A) unauthorized use of the Intellectual Property.]
+6.	**[Open Source /// Ownership of Intellectual Property]**. [The Parties acknowledge and agree that all work product and materials from the Services, unless expressly agreed in writing to the contrary, are and will be made and distributed under the MIT license. /// All intellectual property, work product, and related material including any trade secrets, moral rights, goodwill, relevant registrations or applications for registration, and rights in any patent, copyright, trademark, trade dress, industrial design, non-open source software, method, trade name and communications (the “Intellectual Property”) that is developed, progressed, or produced under this Agreement is a “work made for hire” and will be the sole property of [DAO NAME]. Party A may not use the Intellectual Property for any purpose other than as agreed herein except with the prior written consent of [DAO NAME]. The use of the Intellectual Property by [DAO NAME] will not be restricted in any manner. Party A will be responsible for any and all damages resulting from Party A’s or its Representatives’ or a third party’s (to the extent such third party received or became aware of Intellectual Property from Party A) unauthorized use of the Intellectual Property.]
 
-7.	**Remedies**. Each Party agrees that use or disclosure of any Confidential Information [or Intellectual Property] in a manner inconsistent with this Agreement will give rise to irreparable injury for which: (a) money damages may not be a sufficient remedy for any breach of this Agreement by such Party; (b) the other Party may be entitled to specific performance and injunction and other equitable relief with respect to any such breach; (c) such remedies will not be the exclusive remedies for any such breach, but will be in addition to all other remedies available at law or in equity; and (d) in the event of litigation relating to this Agreement, if a court of competent jurisdiction determines in a final non-appealable order that one Party or any of its Representatives has breached this Agreement, such Party will be liable for reasonable legal fees and expenses incurred by the other Party in connection with such litigation.
+7.	**Remedies and Indemnity**. 
+
+a.  Each Party agrees that use or disclosure of any Confidential Information [or Intellectual Property] in a manner inconsistent with this Agreement will give rise to irreparable injury for which: (i) money damages may not be a sufficient remedy for any breach of this Agreement by such Party; (ii) the other Party may be entitled to specific performance and injunction and other equitable relief with respect to any such breach; (iii) such remedies will not be the exclusive remedies for any such breach, but will be in addition to all other remedies available at law or in equity; and (iv) in the event of litigation relating to this Agreement, if a court of competent jurisdiction determines in a final non-appealable order that one Party or any of its Representatives has breached this Agreement, such Party will be liable for reasonable legal fees and expenses incurred by the other Party in connection with such litigation.
+
+b.  Each Party agrees to defend, indemnify and hold harmless the other Party against any and all liabilities, claims, suits, losses, damages and expenses, including reasonable attorney's fees, incurred by or asserted against the indemnified Party to the extent caused by the acts or omissions of the indemnifying Party in connection with the performance of Services under this Agreement. 
+
+c.  [ENTITY] hereby acknowledges and agrees that Party A has made no express warranties concerning the Services.  It is solely [ENTITY]’s responsibility to determine whether the Services will suit [DAO NAME]’s needs or goals. THE SERVICES ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.  [ENTITY], TO THE FULLEST EXTENT PERMITTED BY LAW, HEREBY DISCLAIMS AND [ENTITY] HEREBY WAIVES ALL WARRANTIES BY PARTY A, INCLUDING, BUT NOT LIMITED TO, ALL IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND WARRANTIES OF NON-INFRINGEMENT OF THIRD PARTY RIGHTS IN CONNECTION WITH THE SERVICES. PARTY A DOES NOT WARRANT, AND [ENTITY] HEREBY WAIVES ANY WARRANTY, THAT THE SERVICES WILL YIELD ANY PARTICULAR RESULTS OR SUCCESSFUL OUTCOMES.  PARTY A DOES NOT MAKE ANY WARRANTY AND [ENTITY] HEREBY WAIVES ANY AND ALL WARRANTIES AS TO THE RESULTS OBTAINED FROM THE SERVICES.
+ 
+d.  LIMITATION OF LIABILITY: PARTY A SHALL NOT BE LIABLE FOR ANY LOST PROFITS OR CONSEQUENTIAL, EXEMPLARY, INCIDENTAL OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, IN CONNECTION WITH THE SERVICES PROVIDED HEREUNDER, REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT OR IN TORT, INCLUDING NEGLIGENCE, AND REGARDLESS OF WHETHER SUCH DAMAGES ARE REASONABLY FORESEEABLE.
 
 8.	**Assignment**. Neither Party will voluntarily, or by operation of law, assign or otherwise transfer its obligations under this Agreement without the prior written consent of the other Party. 
 
@@ -57,7 +70,7 @@ d.	With respect to Confidential Information:
 
 10.	**Amendment**. This Agreement may be amended or modified only by a written agreement signed by both Parties.
 
-11.	**Jurisdiction**. This Agreement will be governed by and construed in accordance with the laws of [the State of Delaware], without regard to the principles of conflict of laws. 
+11.	**Jurisdiction and Governing Law**. This Agreement will be governed by and construed in accordance with the laws of [the State of Delaware], without regard to the principles of conflict of laws. Any dispute, claim or controversy arising out of or relating to this Agreement or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this Agreement to arbitrate, shall be determined by arbitration in [location] before one arbitrator. The arbitration shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures [and in accordance with the Expedited Procedures in those Rules] [or pursuant to JAMS' Streamlined Arbitration Rules and Procedures].
 
 12.	**Miscellaneous**. 
 
@@ -65,9 +78,11 @@ a.	This Agreement will inure to the benefit of and be binding on the respective 
 
 b.	The waiver by either Party of a breach, default, delay or omission of any of the provisions of this Agreement by the other Party will not be construed as a waiver of any subsequent breach of the same or any other provision.
 
-c.	If any provision of this Agreement is held to be invalid, illegal or unenforceable in whole or in part, the remaining provisions shall not be affected and shall continue to be valid, legal and enforceable as though the invalid, illegal or unenforceable parts were severed from this Agreement.
+c.	Neither Party shall be in default or otherwise liable for any delay in, or failure of its performance under this Agreement, where such delay or failure arises by reason of any Act of God, or of any government or any governmental body, any material bug, defect or error in any of the [DAO NAME] code, framework or interface or any smart contract or third party oracle or storage program, network or layer or other infrastructure on which the [DAO NAME] code is reliant, or the unauthorized triggering, use or exploitation (whether intentional or unintentional) of any of the foregoing which renders Party A reasonably unable to provide the Services, or other cause beyond the control of the Parties (any of the foregoing, a “force majeure”); provided, however, that the delay or failure in performance could not have reasonably been foreseen or provided against; and provided further that each Party exercises such diligence in resolving the force majeure as the circumstances may require.
 
-d.	This Agreement may be executed in counterparts, each of which shall be deemed an original, but both of which together shall constitute one and the same instrument. This Agreement may be executed by commercially acceptable electronic means, and any electronic signatures to this Agreement are the same as handwritten signatures for purposes of validity, enforceability, and admissibility.
+d.  If any provision of this Agreement is held to be invalid, illegal or unenforceable in whole or in part, the remaining provisions shall not be affected and shall continue to be valid, legal and enforceable as though the invalid, illegal or unenforceable parts were severed from this Agreement.
+
+e.	This Agreement may be executed in counterparts, each of which shall be deemed an original, but both of which together shall constitute one and the same instrument. This Agreement may be executed by commercially acceptable electronic means, and any electronic signatures to this Agreement are the same as handwritten signatures for purposes of validity, enforceability, and admissibility.
 
 
 *****************************************************
